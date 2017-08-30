@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    color: #444;
+    padding: 20px;
+}
+
+input {
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+.form-container {
+    padding: 20px;
+}
+.form-row {
+    padding: 10px 10px 10px 0;
+}
+.form-row label {
+    display: inline-block;
+    width: 100px;
+}
